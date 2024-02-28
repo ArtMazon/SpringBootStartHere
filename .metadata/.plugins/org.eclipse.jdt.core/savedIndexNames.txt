@@ -1,10 +1,8 @@
 INDEX VERSION 1.134+/home/artmaz/Spring_Projects/.metadata/.plugins/org.eclipse.jdt.core
-1002753894.index
-4257015134.index
-3003126192.index
-954636809.index
-1480449251.index
-2457990362.index
-1991626127.index
-282876465.index
+176262283.index
 1865797976.index
+3771480153.index
+161733092.index
+258116041.index
+4135407637.index
+1974768199.index
