@@ -1,9 +1,0 @@
-package org.springwiring.config;
-
-public class Person {
-    private String name;
-
-    private Parrot parrot;
-
-
-}

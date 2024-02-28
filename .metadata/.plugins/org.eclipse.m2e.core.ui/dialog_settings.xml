@@ -2,8 +2,9 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
-			<item value="/home/artmaz/Spring_Projects"/>
+			<item value="/home/artmaz/Spring_Projects/example"/>
 			<item value="/home/artmaz/Spring_Projects/AutoWired"/>
+			<item value="/home/artmaz/Spring_Projects"/>
 			<item value="/home/artmaz/Spring_Projects/AutoWired/src/main/java/org/springwiring/config/ConfigClass.java"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -48,11 +49,13 @@
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
 			<item value="org.aopspring"/>
+			<item value="asg"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
-			<item value="example"/>
+			<item value="spring-aop-example"/>
+			<item value="asg"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -69,5 +72,18 @@
 	<section name="org.eclipse.m2e.core.pom.overview">
 	</section>
 	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="/home/artmaz/Spring_Projects/AutoWired"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
 	</section>
 </section>
