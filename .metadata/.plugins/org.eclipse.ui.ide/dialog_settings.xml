@@ -38,6 +38,11 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="/home/artmaz/Spring_Projects/Part_2_ Implementation/exercise-chapter-7"/>
+			<item value="/home/artmaz/Spring_Projects/exercise-chapter-7"/>
+			<item value="/home/artmaz/exercise-chapter-7"/>
+			<item value="/home/artmaz/Spring_Projects/Part 2: Implementation/exercise-chapter-7"/>
+			<item value="/home/artmaz/Spring_Projects/Part 2: Implementation/chapter-7-project"/>
 			<item value="/home/artmaz/Spring_Projects/AOPExample"/>
 			<item value="/home/artmaz/Spring_Projects/AutoWired"/>
 		</list>
